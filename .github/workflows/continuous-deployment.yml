@@ -1,4 +1,4 @@
-name: CD - GitHub Docker Packages & Deploy Render
+name: CD
 on:
   push:
     branches: [master]
